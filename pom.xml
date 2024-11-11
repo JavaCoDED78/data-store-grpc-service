@@ -18,7 +18,7 @@
 
     <properties>
         <java.version>21</java.version>
-        <mapstruct.version>1.6.2</mapstruct.version>
+        <mapstruct.version>1.6.3</mapstruct.version>
         <jedis.version>5.2.0</jedis.version>
         <grpc.version>1.60.0</grpc.version>
         <protoc.version>3.25.1</protoc.version>
